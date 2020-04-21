@@ -10,6 +10,7 @@ import matplotlib as plt
 # In[2]:
 
 df=pd.read_csv("Dataset//train_ctrUa4K.csv") #To Read the Dataset
+print("hello")
 
 
 # In[3]:
